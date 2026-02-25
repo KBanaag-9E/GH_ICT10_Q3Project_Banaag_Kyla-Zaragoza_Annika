@@ -24,3 +24,8 @@ body {
     backdrop-filter: blur(50px);
 }
 
+.nav-tabs .nav-link.active {
+    color: #000000;
+}
+
+
